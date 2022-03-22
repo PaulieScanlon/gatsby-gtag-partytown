@@ -1,0 +1,30 @@
+{
+  "name": "gatsby-gtag-partytown",
+  "version": "1.0.0",
+  "description": "A demo repo for adding Google Analytics gtag using Partytown to a Gatsby site",
+  "main": "index.js",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "clean": "gatsby clean",
+    "serve": "gatsby serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulieScanlon/gatsby-gtag-partytown.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulieScanlon/gatsby-gtag-partytown/issues"
+  },
+  "homepage": "https://github.com/PaulieScanlon/gatsby-gtag-partytown#readme",
+  "dependencies": {
+    "gatsby": "^4.10.1",
+    "gatsby-plugin-google-gtag": "^4.10.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
