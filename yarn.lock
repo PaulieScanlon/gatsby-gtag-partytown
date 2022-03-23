@@ -1022,6 +1022,11 @@
     "@babel/helper-validator-identifier" "^7.16.7"
     to-fast-properties "^2.0.0"
 
+"@builder.io/partytown@^0.5.0":
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/@builder.io/partytown/-/partytown-0.5.0.tgz#4972e8ec0239bf50db6a444853719cccec776655"
+  integrity sha512-kKSEZuHSc6yvxMWeDu4usa6tj76IMY7xOLkcuRLd4YEDixdW/4d38bURyAJJZAtnILUCO7zNzUVGJuxFV/Vb6Q==
+
 "@endemolshinegroup/cosmiconfig-typescript-loader@3.0.2":
   version "3.0.2"
   resolved "https://registry.yarnpkg.com/@endemolshinegroup/cosmiconfig-typescript-loader/-/cosmiconfig-typescript-loader-3.0.2.tgz#eea4635828dde372838b0909693ebd9aafeec22d"
@@ -4997,14 +5002,6 @@ gatsby-parcel-config@^0.1.0:
     "@parcel/transformer-json" "^2.3.1"
     "@parcel/transformer-raw" "^2.3.1"
     "@parcel/transformer-react-refresh-wrap" "^2.3.1"
-
-gatsby-plugin-google-gtag@^4.10.0:
-  version "4.10.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-google-gtag/-/gatsby-plugin-google-gtag-4.10.0.tgz#bf2897cab9e2e3fda15dbe5ef8526f8dde238d4e"
-  integrity sha512-RnhD25M+v2DzBCxxd0hrJ5ki32Rk4mm8973+9J6ukyk+3u/ym5nvjj47qzMVaYx9bbvs03Py1v27TsbBouwhPg==
-  dependencies:
-    "@babel/runtime" "^7.15.4"
-    minimatch "^3.0.4"
 
 gatsby-plugin-page-creator@^4.10.1:
   version "4.10.1"
