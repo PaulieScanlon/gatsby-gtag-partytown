@@ -22,8 +22,9 @@
   },
   "homepage": "https://github.com/PaulieScanlon/gatsby-gtag-partytown#readme",
   "dependencies": {
-    "gatsby": "^4.10.1",
-    "gatsby-plugin-google-gtag": "^4.10.0",
+    "@builder.io/partytown": "^0.8.2",
+    "gatsby": "^4.3.0",
+    "gatsby-plugin-netlify": "^4.0.0-next.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   }
